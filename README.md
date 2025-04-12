@@ -1,1 +1,1 @@
-# Hack996
+Balena Quant Invitational: Hack996
